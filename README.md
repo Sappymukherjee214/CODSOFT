@@ -16,6 +16,6 @@ This project is a simple responsive landing page created using HTML, CSS, and Ja
 ## Installation
 To run this project locally, follow these steps:
 
-1. Clone the repository:
+1. **Clone the repository**:
    ```bash
    git clone https://github.com/Sappymukherjee214/CODESOFT_01.git
